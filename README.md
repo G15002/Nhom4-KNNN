@@ -1,8 +1,12 @@
 # Github lớp Kĩ năng nghề nghiệp
 Nhóm 4 - Không sợ rớt môn
-**THÀNH VIÊN: **
-***Truong nhom: Dao Vo Truong Giang***
- *, Phan Thanh Bach
-  , Nghiem Thi Cam Nhung
-  , Tran Thi Hong Minh
-  , Phan Pham Diem Quynh*
+**THÀNH VIÊN:**
+***Trưởng nhóm: Đào Võ Trường Giang***
+
+ *, Phan Thanh Bách
+ 
+  , Nghiêm Thị Cẩm Nhung
+  
+  , Trần Thị Hồng Minh
+  
+  , Phan Phạm Diễm Quỳnh*
