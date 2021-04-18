@@ -4,9 +4,6 @@ Nhóm 4 - Không sợ rớt môn
 ***Trưởng nhóm: Đào Võ Trường Giang***
 
  *, Phan Thanh Bách
- 
   , Nghiêm Thị Cẩm Nhung
-  
   , Trần Thị Hồng Minh
-  
   , Phan Phạm Diễm Quỳnh*
