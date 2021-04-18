@@ -1,6 +1,6 @@
-# Github lop Ky Nang Nghe Nghiep
-Nhom 4 - Khong so rot mon
-**THANH VIEN:**
+# Github lớp Kĩ năng nghề nghiệp
+Nhóm 4 - Không sợ rớt môn
+**THÀNH VIÊN: **
 ***Truong nhom: Dao Vo Truong Giang***
  *, Phan Thanh Bach
   , Nghiem Thi Cam Nhung
